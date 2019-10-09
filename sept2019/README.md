@@ -1,6 +1,19 @@
 Just starting to get things working. This folder has the same files zipped 3 ways.
 
-I use the cli on the nrf52840 usb dongles with screen
+I use the cli on the nrf52840 usb dongles with screen.
+
+I use the nrf util to install the .hex files onto the dongles. The button on the dongles s a bit hidden and is pushed sideways. Button must be held down while inserting the dongle into your computer. 
+
+
+For the particle mesh devices. Put the device into dfu mode touch both buttons then keep holding the mode (left side of usb cable) first it flashes cyan then yellow, release on yellow.
+
+Then in the folder with the argon or xenon bin enter this
+
+```
+particle flash --usb  myProjectName-argon.bin
+
+
+```
 
 Connect one dongle to your laptop with OTBR (openthread border router) working.
 
