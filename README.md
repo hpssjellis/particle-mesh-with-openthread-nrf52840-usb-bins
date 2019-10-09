@@ -1,0 +1,1 @@
+# particle-mesh-with-openthread-nrf52840-usb-bins
