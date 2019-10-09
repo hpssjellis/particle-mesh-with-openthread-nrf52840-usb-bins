@@ -2,7 +2,15 @@ Just starting to get things working. This folder has the same files zipped 3 way
 
 I use the cli on the nrf52840 usb dongles with screen.
 
-I use the nrf util to install the .hex files onto the dongles. The button on the dongles s a bit hidden and is pushed sideways. Button must be held down while inserting the dongle into your computer. 
+I use the nrf-connect util to install the .hex files onto the dongles. 
+
+download at https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF-Connect-for-desktop/Download#infotabs
+
+with some info https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF-Connect-for-desktop
+
+This program actually works fine on windows. The screen command I think only works on linux though.
+
+The button on the dongles s a bit hidden and is pushed sideways. Button must be held down while inserting the dongle into your computer. 
 
 
 For the particle mesh devices. Put the device into dfu mode touch both buttons then keep holding the mode (left side of usb cable) first it flashes cyan then yellow, release on yellow.
