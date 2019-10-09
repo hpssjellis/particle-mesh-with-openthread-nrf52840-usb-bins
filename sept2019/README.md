@@ -20,9 +20,13 @@ then type
 
 
 Now is not a bad time to power up your argons and xenons
+
 ```scan```
 
 ```ping ff02::1 ```
 
 
-``` ping (local ipv4 address) ```
+``` ping (local ipv4 address, see console for argons at startup) ```
+
+
+Please reply if you can do anything else. I would really like to use screen to get the nrf52840 sending a udp message to the argons and xenons but unfortunately I think I will have to do it in software.
