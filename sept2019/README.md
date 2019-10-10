@@ -1,5 +1,23 @@
 Just starting to get things working. This folder has the same files zipped 3 ways.
 
+
+
+### warning getting the Argon and Xenon back to normal needs:
+
+To get thngs back to normal you may have to flash the Argon binaries back onto your Argon
+
+https://github.com/particle-iot/device-os/releases/download/v1.4.1-rc.1/particle_device-os@1.4.1-rc.1.zip
+
+Look to the bottom of this thread 
+
+https://community.particle.io/t/particle-device-os-updates-thread/14378/97
+
+
+
+.
+
+
+
 I use the cli on the nrf52840 usb dongles with the "screen" app.
 
 I use the nrf-connect util to install the .hex files onto the dongles. 
