@@ -1,6 +1,6 @@
 Just starting to get things working. This folder has the same files zipped 3 ways.
 
-I use the cli on the nrf52840 usb dongles with screen.
+I use the cli on the nrf52840 usb dongles with the "screen" app.
 
 I use the nrf-connect util to install the .hex files onto the dongles. 
 
