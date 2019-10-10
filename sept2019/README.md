@@ -23,6 +23,14 @@ particle flash --usb  myProjectName-argon.bin
 
 ```
 
+If you power up 2 or more argons with wifi working they should find each other as their mesh credentials have been set to be the same. 
+
+If you connect D0 to 3v3 then all Argons should flash every 5 seconds. If you set any Argon D6 to 3V3 it shuts off wifi but the Argons should still flash every 5 seconds, suggesting that the Argons are communicating useing the Mesh network and not wifi.
+
+
+
+With the nrf52840 usb dongles
+
 Connect one dongle to your laptop with OTBR (openthread border router) working.
 
 To see what it is called type or some other method
