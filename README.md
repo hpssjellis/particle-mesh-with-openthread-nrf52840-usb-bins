@@ -3,7 +3,9 @@
 
 See specific information in the individual folders
 
-Just starting to get things working. This folder has the same files zipped 3 ways.
+Just starting to get things working. >Each folder has the full set of Argon, xenon and nrf52840 ftd and cli files
+
+The .zip file in the main folder is the latest Argon.bin that can be dfu usb flashed to an argon using the particle-cli
 
 
 
