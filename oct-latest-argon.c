@@ -2,6 +2,7 @@
 * Particle Mesh Devices Connection with Openthread
 * By Jeremy Ellis
 * Twitter @rocksetta
+* MIT license
 
 * D0 to 3V3 send Mesh.publish to all devices flash D7
 * D3 to 3V3 send Particle.publish to the console with generic information
