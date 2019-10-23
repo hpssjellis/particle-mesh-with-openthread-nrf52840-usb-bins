@@ -1,6 +1,12 @@
 # particle-mesh-with-openthread-nrf52840-usb-bins
 
 
+Video at https://youtu.be/sn_jQmzGDcg
+
+Instructions at https://community.particle.io/t/using-particle-mesh-devices-with-the-openthread-border-router/46189/68
+
+
+
 See specific information in the individual folders
 
 Just starting to get things working. >Each folder has the full set of Argon, xenon and nrf52840 ftd and cli files
