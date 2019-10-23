@@ -3,6 +3,11 @@
 
 Video at https://youtu.be/sn_jQmzGDcg
 
+
+
+[![particle.io Mesh Multiple devices](http://img.youtube.com/vi/sn_jQmzGDcg/0.jpg)](https://youtu.be/sn_jQmzGDcg)
+
+
 Instructions at https://community.particle.io/t/using-particle-mesh-devices-with-the-openthread-border-router/46189/68
 
 
